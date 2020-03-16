@@ -1,3 +1,3 @@
-# angular-7d6q4p
+# angular-test
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-7d6q4p)
+App catalog and cart
